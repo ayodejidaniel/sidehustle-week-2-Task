@@ -24,7 +24,7 @@ if (isset($_POST['sign up'])) {
 <html lang="en">
 <head> 
     <title>Login Form</title>
-    <?php include ("header.php")?>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 </head>
 <body>
     <section class="container gray-text">
